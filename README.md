@@ -1,6 +1,6 @@
 
 # Flu Shot Learning: Predicting Whether Individuals got their H1N1 Vaccines
-
+<img src = 'https://www.paho.org/sites/default/files/styles/max_1500x1500/public/hero/2022-10/vaccine-1500x742.jpg?itok=ezQdDgu0'>
 
 This project aims to predict the likelihood of individuals receiving the H1N1 and seasonal flu vaccines by building a classification model using demographic, social, economic, and health-related data. The data used for this project is from the National 2009 H1N1 Flu Survey conducted in the United States.
 
